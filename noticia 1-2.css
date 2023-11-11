@@ -1,10 +1,11 @@
 body {
     background-color: rgb(209, 209, 209);
+    margin:2px;
 }
 
 header {
     background-image: linear-gradient(rgb(145, 0, 202), rgb(134, 1, 187));
-    margin-top: -20px;
+    margin-top: -34px;
 }
 #título {
     text-align: center;
